@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Tranglo1.CustomerIdentity.Domain.Entities
+namespace Tranglo1.Identity.Contracts.Entities
 {
     public class TrangloStaffEntityAssignment 
     {

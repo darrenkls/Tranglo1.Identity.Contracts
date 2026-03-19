@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Tranglo1.CustomerIdentity.Domain.DomainServices
+namespace Tranglo1.Identity.Contracts.DomainServices
 {
     public interface IDomainEvent
     {

@@ -1,6 +1,6 @@
-﻿using Tranglo1.CustomerIdentity.Domain.Common;
+﻿using Tranglo1.Identity.Contracts.Common;
 
-namespace Tranglo1.CustomerIdentity.Domain.Entities
+namespace Tranglo1.Identity.Contracts.Entities
 {
     public class SystemEnvironment : Enumeration
 	{

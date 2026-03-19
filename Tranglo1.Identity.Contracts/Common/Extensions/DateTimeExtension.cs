@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Tranglo1.CustomerIdentity.Domain.Common.Extensions
+namespace Tranglo1.Identity.Contracts.Common.Extensions
 {
     public static partial class Extensions
     {

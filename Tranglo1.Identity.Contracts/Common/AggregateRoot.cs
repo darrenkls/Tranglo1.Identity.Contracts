@@ -1,7 +1,7 @@
 ﻿using CSharpFunctionalExtensions;
 using System.Collections.Generic;
 
-namespace Tranglo1.CustomerIdentity.Domain.Common
+namespace Tranglo1.Identity.Contracts.Common
 {
     /// <summary>
     /// This will determine the domain class whether is an aggregate root.

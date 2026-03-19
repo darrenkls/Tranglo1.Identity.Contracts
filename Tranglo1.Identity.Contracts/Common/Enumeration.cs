@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace Tranglo1.CustomerIdentity.Domain.Common
+namespace Tranglo1.Identity.Contracts.Common
 {
     public abstract class Enumeration : Entity, IComparable
     {

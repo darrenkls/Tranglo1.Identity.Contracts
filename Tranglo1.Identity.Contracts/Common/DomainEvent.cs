@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Tranglo1.CustomerIdentity.Domain.Common
+namespace Tranglo1.Identity.Contracts.Common
 {
     public abstract class DomainEvent
     {

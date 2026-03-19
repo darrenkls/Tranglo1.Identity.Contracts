@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Tranglo1.CustomerIdentity.IdentityServer.Common.Constant
+namespace Tranglo1.Identity.Contracts.Common
 {
     public class BusinessOnboardSummaryStatus
     {
