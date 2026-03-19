@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace Tranglo1.CustomerIdentity.Domain.Common
+namespace Tranglo1.Identity.Contracts.Common
 {
 	/// <summary>
 	/// The implementation class is from here : https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/

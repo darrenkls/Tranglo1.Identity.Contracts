@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Tranglo1.CustomerIdentity.Domain.Entities;
+using Tranglo1.Identity.Contracts.Entities;
 
-namespace Tranglo1.CustomerIdentity.Domain.DomainServices
+namespace Tranglo1.Identity.Contracts.DomainServices
 {
     public interface IStaffEntityQueryService
     {

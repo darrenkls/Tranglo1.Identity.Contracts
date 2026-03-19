@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Net.Mail;
 using System.Text.RegularExpressions;
 
-namespace Tranglo1.CustomerIdentity.Domain.Entities
+namespace Tranglo1.Identity.Contracts.Entities
 {
 	public class Email : ValueObject
 	{

@@ -2,9 +2,9 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Tranglo1.CustomerIdentity.Domain.DomainServices;
+using Tranglo1.Identity.Contracts.DomainServices;
 
-namespace Tranglo1.CustomerIdentity.Domain.Common
+namespace Tranglo1.Identity.Contracts.Common
 {
     public abstract class DomainEventService : DomainEventService<int>
     {

@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TimeZoneNames;
 
-namespace Tranglo1.CustomerIdentity.Domain.Common
+namespace Tranglo1.Identity.Contracts.Common
 {
     public static class TimezoneConversion
     {
